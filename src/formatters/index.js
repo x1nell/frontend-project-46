@@ -18,4 +18,4 @@ const formatTree = (tree, format) => {
   return {};
 };
 
-export default formatTree
+export default formatTree;
