@@ -1,6 +1,12 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/x1nell/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/x1nell/frontend-project-46/actions)
-<a href="https://codeclimate.com/github/x1nell/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/52805e94c8c0351eb573/maintainability" /></a>
+
+### CodeClimate
+
+<a href="https://codeclimate.com/github/x1nell/frontend-project-46/maintainability"><img src="https://api.codeclimate.com/v1/badges/maintainability" /></a>
+<a href="https://codeclimate.com/github/x1nell/frontend-project-46/test_coverage"><img src="https://api.codeclimate.com/v1/badges/test_coverage" /></a>
+
+
 ### Description
 
 Program compares 2 files of .json or .yaml formats and displays the differences between them
