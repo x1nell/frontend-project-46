@@ -2,7 +2,7 @@ import _ from 'lodash';
 import fs from 'fs';
 import path from 'path';
 import parseFile from './src/parser.js';
-import formatTree from './src/formatters/index.js';
+import formatTree from './src/formatters/index.js'
 
 const getUnionKeys = (obj1, obj2) => {
   const keys1 = Object.keys(obj1);
