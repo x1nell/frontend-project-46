@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "[![Actions Status](https://github.com/kostia1122/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/kostia1122/frontend-project-46/actions)",
+  "description": "[![Actions Status](https://github.com/x1nell/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/x1nell/frontend-project-46/actions)",
   "main": "index.js",
   "scripts": {
     "test": "npx jest"
