@@ -3,8 +3,8 @@
 
 ### CodeClimate
 
-<a href="https://codeclimate.com/github/x1nell/frontend-project-46/maintainability"><img src="https://api.codeclimate.com/v1/badges/c51c59369c4d9a6e4284/maintainability" /></a>
-<a href="https://codeclimate.com/github/x1nell/frontend-project-46/test_coverage"><img src="https://api.codeclimate.com/v1/badges/c51c59369c4d9a6e4284/test_coverage" /></a>
+<a href="https://codeclimate.com/github/x1nell/frontend-project-46/maintainability"><img src="" /></a>
+<a href="https://codeclimate.com/github/x1nell/frontend-project-46/test_coverage"><img src="" /></a>
 
 ### Description
 
