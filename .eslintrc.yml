@@ -1,5 +1,5 @@
 env:
-  node: tru
+  node: true
 
 extends:
   - 'airbnb-base'
