@@ -5,7 +5,7 @@
 
 Program compares 2 files of .json or .yaml formats and displays the differences between them
 
-### How to use
+### How to us
 
 1. Clone this repo `git clone https://github.com/x1nell/frontend-project-46`
 2. To build the project type `make install`
