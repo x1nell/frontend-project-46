@@ -12,4 +12,4 @@ const parseFile = (filename, ext) => {
   return {};
 };
 
-export default parseFile
+export default parseFile;
